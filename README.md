@@ -30,3 +30,6 @@ This project is focused on designing a responsive webpage for a pet food company
 ---
 
 _This document offers a concise overview of the project requirements and specifications._
+<img width="801" alt="Снимок экрана 2024-01-21 в 00 37 59" src="https://github.com/antonhayabysa/Design-layout/assets/83969662/aa2d6531-6d29-44a1-889a-35cc6614be2a">
+
+
